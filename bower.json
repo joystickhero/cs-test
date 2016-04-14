@@ -1,0 +1,29 @@
+{
+  "name": "CSU",
+  "version": "0.1.0",
+  "description": "CSU Presentation Layer",
+  "devDependencies": {
+    "angular-mocks": "~1.4.8"
+  },
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-ui-router": "~0.2.13",
+    "angular-bootstrap": "~0.12.0",
+    "angular-translate": "2.7.0",
+    "angular-translate-loader-static-files": "2.7.0",
+    "angular-ui-utils": "~0.2.1",
+    "restangular": "1.5.1",
+    "jquery": "~2.1.1",
+    "lodash": "3.10.1",
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.5.0",
+    "jquery-ui": "~1.11.1",
+    "angular-moment": "~0.10.3",
+    "angular-footable": "^1.0.3",
+    "ui-select": "angular-ui-select#^0.14.9"
+  },
+  "resolutions": {
+    "jquery": "~2.1.1",
+    "angular": "~1.4.8"
+  }
+}

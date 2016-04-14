@@ -1,0 +1,17 @@
+*.*~
+.sass-cache
+.tmp
+.sass-cache
+app/components
+build/
+bin/
+static/
+node_modules/
+vendor/
+.idea/
+coverage/
+dist
+/nbproject/
+
+# Ignore config.js since it's created via 'grunt build/compile'
+/src/common/config/config.js
